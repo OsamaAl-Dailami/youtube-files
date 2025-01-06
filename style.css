@@ -137,3 +137,25 @@ nav {
 .active {
     background-color: #e5e5e5;
 }
+
+hr {
+    height: 1px;
+    background-color: #e5e5e5;
+    border: none;
+    margin: 10px 0;
+}
+
+
+nav p {
+    font-size: 1.4rem;
+    color: #606060;
+    font-weight: 500;
+    padding: 8px 16px;
+    text-transform: uppercase;
+}
+
+.channel-img {
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+}
